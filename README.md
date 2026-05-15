@@ -7,7 +7,7 @@ A comprehensive analytics dashboard built to analyze Uber Auto ride operations a
 
 ## 📊 Overview
 
-This dashboard provides actionable insights into Uber Auto's operational data, enabling data-driven decisions around driver deployment, pricing strategy, and customer satisfaction.
+This dashboard provides actionable insights into Uber operational data, enabling data-driven decisions around driver deployment, pricing strategy, and customer satisfaction.
 
 ### Key Metrics
 | Metric | Value |
