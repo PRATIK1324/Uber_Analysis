@@ -45,29 +45,9 @@ This dashboard provides actionable insights into Uber Auto's operational data, e
 
 ---
 
-## 📁 Project Structure
-
-```
-uber-auto-dashboard/
-│
-├── assets/                  # Screenshots and images
-│   └── dashboard-preview.png
-│
-├── data/                    # Raw / sample datasets
-│   └── sample_data.csv
-│
-├── docs/                    # Additional documentation
-│   └── insights-report.md
-│
-├── README.md
-└── .gitignore
-```
-
----
-
 ## 🛠️ Built With
 
-- **Tool:** Power BI / Tableau *(update as needed)*
+- **Tool:** Power BI 
 - **Data Source:** Uber ride operations dataset
 - **Design:** Custom dashboard layout with monthly and quarterly toggle views
 
@@ -79,7 +59,7 @@ uber-auto-dashboard/
    ```bash
    git clone https://github.com/your-username/uber-auto-dashboard.git
    ```
-2. Open the dashboard file in Power BI / Tableau
+2. Open the dashboard file in Power BI
 3. Connect to your data source or load the sample data from `/data/`
 4. Explore bookings, revenue, and zone-level insights
 
