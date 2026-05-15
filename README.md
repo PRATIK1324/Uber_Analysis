@@ -1,4 +1,4 @@
-# 🛺 Uber Auto — Ride Operations Dashboard
+#  Uber — Ride Operations Dashboard
 
 A comprehensive analytics dashboard built to analyze Uber Auto ride operations across key performance dimensions including bookings, revenue, distance, ratings, and zone-level demand patterns.
 
