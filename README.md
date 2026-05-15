@@ -2,7 +2,6 @@
 
 A comprehensive analytics dashboard built to analyze Uber Auto ride operations across key performance dimensions including bookings, revenue, distance, ratings, and zone-level demand patterns.
 
-![Dashboard Preview](assets/dashboard-preview.png)
 
 ---
 
